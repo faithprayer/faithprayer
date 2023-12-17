@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Prayer Faith Kaawoan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="justify">I am a passionate front-end developer dedicated to crafting engaging and user-centric digital experiences. Currently pursuing my education at Atma Jaya University, I am immersed in a dynamic learning environment that fuels my curiosity and enhances my skills in web development. Through a blend of academic knowledge and practical application, I strive to create intuitive, visually compelling, and responsive websites. My journey as a student and developer allows me to blend theoretical insights with hands-on expertise, enabling me to contribute innovative solutions in the ever-evolving landscape of front-end development. Join me as I showcase my projects, explore new technologies, and continuously evolve in this exciting field.</h3>
 
 - 🌱 I’m currently learning **React, CodeIgniter**
 
